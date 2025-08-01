@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ReubenHellier
-- 🌱 I’m currently in studying Computer Science and Maths at University of Manchester
+- 🌱 I’m a Data Scientist at Anumana!
 - 📫 Reach me at reuben_hellier@icloud.com
 
 <!---
